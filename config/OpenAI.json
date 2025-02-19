@@ -1,0 +1,7 @@
+{
+    "model": "o3-mini",
+    "response_format": {
+        "type": "text"
+    },
+    "reasoning_effort": "medium"
+}
