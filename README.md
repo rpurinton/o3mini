@@ -1,2 +1,2 @@
-# o3-mini
-Command-line o3-mini chat 
+# o3mini
+Command-line o3mini chat 
