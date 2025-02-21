@@ -810,16 +810,16 @@
         },
         {
             "name": "rpurinton/config",
-            "version": "1.0.9",
+            "version": "1.0.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/config.git",
-                "reference": "22dc2372271154daee48c8a7dcdcefaab31ce50d"
+                "reference": "8675770de22dc4282ed4f835c802897e5d33e4af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/config/zipball/22dc2372271154daee48c8a7dcdcefaab31ce50d",
-                "reference": "22dc2372271154daee48c8a7dcdcefaab31ce50d",
+                "url": "https://api.github.com/repos/rpurinton/config/zipball/8675770de22dc4282ed4f835c802897e5d33e4af",
+                "reference": "8675770de22dc4282ed4f835c802897e5d33e4af",
                 "shasum": ""
             },
             "require": {
@@ -845,22 +845,22 @@
             "description": "A basic configuration loading utility.",
             "support": {
                 "issues": "https://github.com/rpurinton/config/issues",
-                "source": "https://github.com/rpurinton/config/tree/1.0.9"
+                "source": "https://github.com/rpurinton/config/tree/1.0.21"
             },
-            "time": "2025-02-19T20:02:33+00:00"
+            "time": "2025-02-21T17:59:19+00:00"
         },
         {
             "name": "rpurinton/https",
-            "version": "1.0.8",
+            "version": "1.0.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/https.git",
-                "reference": "7519e151479b78f91e7d7ef2be7f8d1b34a7678d"
+                "reference": "af12538c8e508c830746eb3da2d790348f9e00bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/https/zipball/7519e151479b78f91e7d7ef2be7f8d1b34a7678d",
-                "reference": "7519e151479b78f91e7d7ef2be7f8d1b34a7678d",
+                "url": "https://api.github.com/repos/rpurinton/https/zipball/af12538c8e508c830746eb3da2d790348f9e00bd",
+                "reference": "af12538c8e508c830746eb3da2d790348f9e00bd",
                 "shasum": ""
             },
             "require": {
@@ -886,22 +886,22 @@
             "description": "Abstract Static Class for making HTTPS Requests in PHP/Composer",
             "support": {
                 "issues": "https://github.com/rpurinton/https/issues",
-                "source": "https://github.com/rpurinton/https/tree/1.0.8"
+                "source": "https://github.com/rpurinton/https/tree/1.0.15"
             },
-            "time": "2025-02-19T20:16:15+00:00"
+            "time": "2025-02-21T18:01:19+00:00"
         },
         {
             "name": "rpurinton/log",
-            "version": "1.0.11",
+            "version": "1.0.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/log.git",
-                "reference": "e78e1a737c27051688d5c61ff5a84564dabc5162"
+                "reference": "67419d8a7820966351cd8b51ba05240c99f5b405"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/log/zipball/e78e1a737c27051688d5c61ff5a84564dabc5162",
-                "reference": "e78e1a737c27051688d5c61ff5a84564dabc5162",
+                "url": "https://api.github.com/repos/rpurinton/log/zipball/67419d8a7820966351cd8b51ba05240c99f5b405",
+                "reference": "67419d8a7820966351cd8b51ba05240c99f5b405",
                 "shasum": ""
             },
             "require": {
@@ -928,22 +928,22 @@
             "description": "A Logging Library",
             "support": {
                 "issues": "https://github.com/rpurinton/log/issues",
-                "source": "https://github.com/rpurinton/log/tree/1.0.11"
+                "source": "https://github.com/rpurinton/log/tree/1.0.19"
             },
-            "time": "2025-02-19T20:16:35+00:00"
+            "time": "2025-02-21T18:01:41+00:00"
         },
         {
             "name": "rpurinton/openai",
-            "version": "1.0.18",
+            "version": "1.0.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/openai.git",
-                "reference": "9d9c82a7b7fca91914b1bccf0b686647c5a4d08f"
+                "reference": "d5aba2a82df7398cbfc85b05100a96c31a936895"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/openai/zipball/9d9c82a7b7fca91914b1bccf0b686647c5a4d08f",
-                "reference": "9d9c82a7b7fca91914b1bccf0b686647c5a4d08f",
+                "url": "https://api.github.com/repos/rpurinton/openai/zipball/d5aba2a82df7398cbfc85b05100a96c31a936895",
+                "reference": "d5aba2a82df7398cbfc85b05100a96c31a936895",
                 "shasum": ""
             },
             "require": {
@@ -974,9 +974,9 @@
             "description": "A OpenAI Library",
             "support": {
                 "issues": "https://github.com/rpurinton/openai/issues",
-                "source": "https://github.com/rpurinton/openai/tree/1.0.18"
+                "source": "https://github.com/rpurinton/openai/tree/1.0.23"
             },
-            "time": "2025-02-19T23:40:25+00:00"
+            "time": "2025-02-21T18:03:50+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",

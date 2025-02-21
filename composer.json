@@ -11,5 +11,6 @@
         "allow-plugins": {
             "php-http/discovery": true
         }
-    }
+    },
+    "version": "1.0.1"
 }
