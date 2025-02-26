@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0c718d20d1ef1392d7ff7f76bb6f63f5",
+    "content-hash": "10e8cd59dc2645981ac9b5b0e6a3d886",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -892,16 +892,16 @@
         },
         {
             "name": "rpurinton/log",
-            "version": "1.0.23",
+            "version": "1.0.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/log.git",
-                "reference": "494bebd18ee64056ef0ce32c38a8d61578ff3675"
+                "reference": "26232c50c2deca848899b13d44d7f6f421f2ec9e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/log/zipball/494bebd18ee64056ef0ce32c38a8d61578ff3675",
-                "reference": "494bebd18ee64056ef0ce32c38a8d61578ff3675",
+                "url": "https://api.github.com/repos/rpurinton/log/zipball/26232c50c2deca848899b13d44d7f6f421f2ec9e",
+                "reference": "26232c50c2deca848899b13d44d7f6f421f2ec9e",
                 "shasum": ""
             },
             "require": {
@@ -928,22 +928,22 @@
             "description": "A Logging Library",
             "support": {
                 "issues": "https://github.com/rpurinton/log/issues",
-                "source": "https://github.com/rpurinton/log/tree/1.0.23"
+                "source": "https://github.com/rpurinton/log/tree/1.0.26"
             },
-            "time": "2025-02-25T22:47:47+00:00"
+            "time": "2025-02-26T12:45:15+00:00"
         },
         {
             "name": "rpurinton/openai",
-            "version": "1.0.25",
+            "version": "1.0.28",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rpurinton/openai.git",
-                "reference": "f2a91f894801a45f713fde08cb44bfb7f333190e"
+                "reference": "e40d85b0a1d1dafa3f5f3f010edcfa3ab8547ca8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rpurinton/openai/zipball/f2a91f894801a45f713fde08cb44bfb7f333190e",
-                "reference": "f2a91f894801a45f713fde08cb44bfb7f333190e",
+                "url": "https://api.github.com/repos/rpurinton/openai/zipball/e40d85b0a1d1dafa3f5f3f010edcfa3ab8547ca8",
+                "reference": "e40d85b0a1d1dafa3f5f3f010edcfa3ab8547ca8",
                 "shasum": ""
             },
             "require": {
@@ -953,7 +953,7 @@
                 "openai-php/client": "^0.10.3",
                 "php": "^8.0",
                 "rpurinton/config": "^1.0.23",
-                "rpurinton/log": "^1.0.23"
+                "rpurinton/log": "^1.0.26"
             },
             "type": "library",
             "autoload": {
@@ -974,9 +974,9 @@
             "description": "A OpenAI Library",
             "support": {
                 "issues": "https://github.com/rpurinton/openai/issues",
-                "source": "https://github.com/rpurinton/openai/tree/1.0.25"
+                "source": "https://github.com/rpurinton/openai/tree/1.0.28"
             },
-            "time": "2025-02-25T22:52:55+00:00"
+            "time": "2025-02-26T12:48:39+00:00"
         },
         {
             "name": "rpurinton/webhook",
