@@ -13,7 +13,7 @@ class O3mini
 
     public function __construct()
     {
-        $this->ai = OpenAI::connect();
+        $this->ai = OpenAI::connect(getenv('OPENAI_KEY_O3'));
     }
 
     public static function connect()
