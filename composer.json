@@ -1,6 +1,6 @@
 {
     "require": {
-        "rpurinton/openai": "^1.0.36"
+        "rpurinton/openai": "^1.0.37"
     },
     "autoload": {
         "psr-4": {
@@ -12,6 +12,6 @@
             "php-http/discovery": true
         }
     },
-    "version": "1.0.10",
+    "version": "1.0.11",
     "type": "project"
 }
